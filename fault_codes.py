@@ -1,0 +1,9 @@
+FAULT_CODES = {
+    "F000": "NORMAL",
+    "F001": "OVER_TEMPERATURE",
+    "F002": "LOW_PRESSURE",
+    "F003": "HIGH_PRESSURE",
+    "F004": "LOW_VOLTAGE",
+    "F005": "HIGH_VOLTAGE",
+    "F006": "OVER_RPM"
+}
